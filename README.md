@@ -3,30 +3,22 @@
 A web app for managing all the activities of a library like managing members and book transactions, built on MERN Stack
 ![1](https://user-images.githubusercontent.com/73348574/205624307-6a1b18fa-5ef7-4de9-b141-9225eca62c6c.png)
 
-### Video Demo
+# 📚 Distributed Library Management System
 
-[Demo Link](https://drive.google.com/file/d/1gddUdOE41WaEyY4OWoJtDa0l6VJZTg94/view?usp=sharing)
+A full-stack MERN application that allows users to manage books, track borrowing transactions, and handle library operations through a modern web interface.
 
-Show some ❤️ and 🌟 the repo to support the project
+Built using **React, Node.js, Express, and MongoDB Atlas** and deployed on **Vercel and Render**.
+## 🚀 Live Demo
 
-## Index ✏️
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen?style=for-the-badge&logo=vercel)](https://distributed-library-management-syst.vercel.app)
 
-- [Library Management System 📚](#library-management-system-)
-  - [Video Demo](#video-demo)
-- [Index ✏️](#index-️)
-- [Features Of LCMS 🚀](#features-of-lcms-)
-- [Setup 🔥](#setup-)
-  - [Frontend Setup 🍧](#frontend-setup-)
-  - [Backend Setup 🍿](#backend-setup-)
-- [Technologies 🛠](#technologies-)
-- [Screenshots](#screenshots)
-- [References 💻](#references-)
-- [Author 📝](#author-)
-- [Connect Me On 🌍](#connect-me-on-)
-- [License 🏆](#license-)
+Frontend  
+[![Frontend](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)](https://distributed-library-management-syst.vercel.app)
 
-## Features Of LCMS 🚀
+Backend API  
+[![Backend](https://img.shields.io/badge/Backend-Render-blue?style=for-the-badge&logo=render)](https://distributed-library-management-system.onrender.com)
 
+## ✨ Features
 - Admin Login and Student Login
 - Admin and Student Dashboard
 - Adding Library Members
@@ -89,14 +81,5 @@ Show some ❤️ and 🌟 the repo to support the project
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 
 ## Author 📝
-
-- [@iampranavdhar](https://www.github.com/iampranavdhar)
-
-## Connect Me On 🌍
-
-[![twitter badge](https://img.shields.io/badge/twitter-Pranavdhar-0077b5?style=social&logo=twitter)](https://twitter.com/iampranavdhar)<br/>
-[![linkedin badge](https://img.shields.io/badge/linkedin-Pranavdhar-0077b5?style=social&logo=linkedin)](https://in.linkedin.com/in/sai-pranavdhar-reddy-nalamalapu-038104206)
-
-## License 🏆
-
-This repository is licensed under MIT License. Find [LICENSE](LICENSE) to know more
+Divya Bharti
+GitHub: https://github.com/DivyaBharti2578
